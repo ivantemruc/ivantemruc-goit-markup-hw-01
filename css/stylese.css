@@ -29,11 +29,4 @@ cursor: pointer;}
      color: #ffffff;
    }
    
-   .header-logo {Font family: Raleway
-    Font style: ExtraBold
-    Font size: 18px
-    Line height: 24px
-    Line height: 114%
-    Align: Left
-    Vertical align: Center
-    Letter spacing: 3%}
+   .header-logo {text-transform: uppercase;}
