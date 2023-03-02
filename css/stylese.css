@@ -4,7 +4,13 @@ body {
   color: #434455;
 }
 
-
 .item {
+  list-style: none;
+}
+.header-list {
+  list-style: none;
+}
+
+.header-address {
   list-style: none;
 }
