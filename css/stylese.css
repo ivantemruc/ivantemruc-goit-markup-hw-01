@@ -4,12 +4,7 @@ body {
   color: #434455;
 }
 
-.h1 {
-  color: #ffffff;
-  background-color: #2e2f42;
-  font-size: 1440px;
-  height: 600px;
-}
+
 .item {
   list-style: none;
 }
