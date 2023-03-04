@@ -29,4 +29,8 @@ cursor: pointer;}
      color: #ffffff;
    }
    
-    .text {align: center;
+    .text {font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 56px;
+      line-height: 60px;}
