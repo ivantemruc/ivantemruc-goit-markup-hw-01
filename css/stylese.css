@@ -12,8 +12,9 @@ body {
 }
 
 .menu-list {
-  list-style: none;
-}
+  list-style: none;}
+
+.menu-item {background: #FFFFFF;}   
 
 button {background-color: #4D5AE5; color:#ffffff;
 cursor: pointer;}
@@ -40,3 +41,9 @@ cursor: pointer;}
 
       .container-our-team { background: #F4F4FD;
 border: 1px solid #000000;}
+
+
+container-warewd {width: 1128px;
+height: 412px; }
+
+.menu-item list {background-color: #E7E9FC}
