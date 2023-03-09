@@ -40,7 +40,8 @@ cursor: pointer;}
 
 
       .container-our-team { background: #F4F4FD;
-border: 1px solid #000000;}
+border: 1px solid #000000;
+}
 
 
 container-warewd {width: 1128px;
@@ -54,4 +55,9 @@ height: 412px; }
 
 .h3{font size: 20px;}
 
- 
+
+.container-customers 
+{background-color: #
+width: 1128px;
+  height: 200px;}
+.menu-item-list {list-style: none;}
