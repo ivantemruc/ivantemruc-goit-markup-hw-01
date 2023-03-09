@@ -28,7 +28,7 @@ cursor: pointer;}
     W: 1440px
     H: 600px;
      color: #ffffff;
-   }
+     background-image: url(../img/photo.png)}
    
     .text {font-family: 'Roboto';
       font-style: normal;
@@ -57,9 +57,8 @@ height: 412px; }
 
 
 .container-customers 
-{background-color: #
+{background-color: #8E8F99;
 width: 1128px;
   height: 200px;}
 .menu-item-list {list-style: none;}
-
 
